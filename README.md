@@ -2,21 +2,17 @@
 
 # ID #1
 
-Bug Summary: Duplicate of the incoming message
+# Bug Summary: Duplicate of the incoming message
 
 Precondition: The user is logged in. The “Inbox” folder is open
 
 Steps:
 
-1: Click on the “Write” button.
-
-2: Fill in the fields “To”, “Subject”, and insert text consists of several paragraphs in the text message field. Apply the following formatting types to different parts of the text: bold, underscore, strikethrough, italics, bulleted list, numbered list.
-
-3: Insert valid images (from computer and a link)
-
-4: Click button “Send”.
-
-5: Open the email (by the recipient).
+1. Click on the “Write” button.
+2. Fill in the fields “To”, “Subject”, and insert text consists of several paragraphs in the text message field. Apply the following formatting types to different parts of the text: bold, underscore, strikethrough, italics, bulleted list, numbered list.
+3. Insert valid images (from computer and a link)
+4. Click button “Send”.
+5. Open the email (by the recipient).
 
 Actual result: Email received. Clicking on it opens a list of two identical emails with appropriate content and all types of formatting.
 
@@ -30,7 +26,7 @@ Attachment: https://disk.yandex.ru/i/aY8DAkisyljeKA
 ____________________________________________________________________________________________________________________________________________
 # ID #2
 
-Bug Summary: The selected time ("00:00" for today) is not displayed in the “Delayed message” field
+# Bug Summary: The selected time ("00:00" for today) is not displayed in the “Delayed message” field
 
 Precondition: The user is logged in. The “Inbox” folder is open.
 
@@ -57,7 +53,7 @@ Additional information: When entering the time 00:00 for today in the calendar, 
 _______________________________________________________________________________________________________________________________________________________________
 # ID #3
 
-Bug Summary: No "Reference" link in the " Clean folder" pop-up.
+# Bug Summary: No "Reference" link in the " Clean folder" pop-up.
 
 Precondition: The user is logged in. The “Inbox” folder is open. Deleted folder is not empty.
 
@@ -77,7 +73,7 @@ Attachment: https://disk.yandex.ru/i/6pTG_11Apa-f6A
 _______________________________________________________________________________________________________________________________________________________________
 # ID #4
 
-Bug Summary: The “Create Label” pop-up does not adjust to the screen width.
+# Bug Summary: The “Create Label” pop-up does not adjust to the screen width.
 
 Precondition: The user is logged in. The “Inbox” folder is open.
 
@@ -105,7 +101,7 @@ https://disk.yandex.ru/i/AQ1m13L1uucKmg
 ______________________________________________________________________________________________________________________________________________________________
 # ID #5
 
-Bug Summary: Absence of warning message when adding a contact without an email address.
+# Bug Summary: Absence of warning message when adding a contact without an email address.
 
 Precondition: The user is logged in. The “Contacts” page is open
 
@@ -127,7 +123,7 @@ Attachment: https://disk.yandex.ru/i/ZRTE8BqfOQM6nw
 _____________________________________________________________________________________________________________________________________________________________
 # ID #6
 
-Bug Summary: After adding a new contact, a page with the search results is displayed.
+# Bug Summary: After adding a new contact, a page with the search results is displayed.
 
 Precondition: The user is logged in. The “Contacts” page is open.
 
